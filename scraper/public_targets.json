@@ -1,0 +1,10 @@
+{
+  "terms": ["1890"],
+  "scope": "all_public_subjects",
+  "delay_seconds": 3,
+  "max_pages_per_search": 30,
+  "max_subject_lookup_pages": 30,
+  "max_run_seconds": 19200,
+  "subject_codes": [],
+  "notes": "Full-public-catalog experimental mode: discover subjects via public Subject lookup. No sample fallbacks, no bypasses, and any incomplete subject aborts publication."
+}

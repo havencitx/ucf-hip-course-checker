@@ -1,0 +1,26 @@
+[
+  {
+    "course_code": "COP 3502C",
+    "course_title": "Computer Science I",
+    "class_number": "10917",
+    "extraction_method": "deterministic",
+    "needs_review": false,
+    "section": "0001",
+    "days_times": "MoWe 9:00AM - 10:15AM",
+    "room": "CB1 O104",
+    "instructor": "Tanvir Ahmed",
+    "meeting_dates": "01/11/2027 - 05/04/2027",
+    "status": "Open",
+    "hip_designations": [],
+    "attribute_evidence": [
+      "Class Attributes",
+      "Interdisciplinary-Computational Science",
+      "Class Attributes Interdisciplinary-Computational Science"
+    ],
+    "hip_observation": "no_recognized_hip_in_visible_attributes",
+    "section_display": "0001-LEC Regular",
+    "term": "1890",
+    "source_url": "https://csprod-ss.net.ucf.edu/psc/CSPROD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+    "fetched_utc": "2026-11-12T15:41:37.174695+00:00"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "status": "not_run",
+  "attempted_utc": null,
+  "message": "No verified scheduled public-data collection has completed. GitHub Actions automation requires institutional approval and must be explicitly enabled."
+}
